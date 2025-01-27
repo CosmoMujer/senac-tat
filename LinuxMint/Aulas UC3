@@ -1,0 +1,50 @@
+_______________________________________________________________________________________
+Objetivo da aula de hoje: 22/01/2025 - 03
+
+
+#01_ Iniciar a Máquina Virtual do Linux Mint
+
+#02_ Atualizar o Linux Mint (MintUpdate ou Terminal)
+Atalho Terminal: Ctrl + Alt + T
+	sudo apt update			#atualizar as listas do apt
+	sudo apt upgrade		#atualizar os aplicativos
+	sudo apt full-upgrade	#forçar uma atualização completa
+	sudo apt dist-upgrade	#forçar uma atualização do Kernel
+	sudo apt autoremove		#remover aplicativos desnecessários
+	sudo apt autoclean		#remover caches de instalação
+
+#03_ Aguardar os procedimentos da aula de instalação e customização de Software no Linux Mint e comandos de Terminal
+
+#A_ Personalizar a Área de Trabalho;
+#B_ Personalizar a Barra de Tarefas (Painel);
+#C_ Personalizar o Tema (Aparência);
+#D_ Personalizar a Janela de Início de Sessão;
+#E_ Pesquisar sobre: Extensões;
+					  Desklets;
+					  Applets;
+					  Temas (Themas);
+					  Plano de Fundo.
+#F_ Menu, Configurações do Sistema.
+
+#04_ Novas formas de instalar Software
+#A) Gerenciador de Aplicativos
+#B) Instalar via Apt (Terminal)
+	sudo apt update
+	sudo apt install git vim
+#C) AppImage: Gosto
+#D) SNAP ou Flatpak: Não Gosto
+
+	KolourPaint
+	NotepadQQ
+	VLC
+	Audacity
+	Kdenlive	AppImage
+	Kazam
+
+#05_ Instalação e Configuração Básica VSCode
+https://code.visualstudio.com/
+
+
+#06_ Instalando uma nova versão do Kernel
+
+

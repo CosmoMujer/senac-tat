@@ -1,3 +1,32 @@
+Objetivo da aula de hoje: 20/01/2025 - 01
+
+#01_ Conhecendo o GNU/Linux e Open Source	
+a) T:\Publica\!!!!!!!RobsonVaamonde\LinuxMint
+
+#02_ Criando a Máquina Virtual do GNU/Linux	
+a) https://github.com/vaamonde/dell-linuxmint/blob/master/software/00-install-linuxmint-22-virtualbox-7.0.md
+
+#03_ Copiando a ISO do GNU/Linux	
+a) T:\Publica\!!!!!!!RobsonVaamonde\LinuxMint
+	
+#04_ Instalando o GNU/Linux
+a) https://github.com/vaamonde/dell-linuxmint/blob/master/software/00-install-linuxmint-22-virtualbox-7.0.md
+	
+#05_ Atualizando o GNU/Linux
+a) Tela de Bem-Vindo			
+b) MintUpdate					
+c) Os convidados do VirtualBOX
+d) Autenticado no Firefox o Github	
+
+
+#06_ Material de Apoio das aulas
+a) https://github.com/vaamonde/dell-linuxmint
+b) https://www.guiafoca.org/guiaonline/
+https://www.guiafoca.org/guiaonline/inicianteintermediario/
+c) https://ss64.com/bash/	
+d) https://chatgpt.com/
+
+____________________________________________________________
 Aula 2 - Uc2 -> Vaamonde / 
 Objetivo da aula de hoje: 22/01/2025
 
@@ -32,8 +61,8 @@ Instalando Software via GDEB em Modo Gráfico
 
 #05_ DESAFIOS: 
 Navegadores: INSTALAR E COLOCAR O ÍCONE NO DESKTOP
-Firefox 				OK
-Chrome					OK
+Firefox 				
+Chrome					
 Opera
 Microsoft Edge
 Vivaldi
@@ -59,12 +88,12 @@ Objetivo da aula de hoje: 22/01/2025 - 03
 
 #02_ Atualizar o Linux Mint (MintUpdate ou Terminal)
 Atalho Terminal: Ctrl + Alt + T
-	sudo apt update			#atualizar as listas do apt
-	sudo apt upgrade		#atualizar os aplicativos
-	sudo apt full-upgrade	#forçar uma atualização completa
-	sudo apt dist-upgrade	#forçar uma atualização do Kernel
-	sudo apt autoremove		#remover aplicativos desnecessários
-	sudo apt autoclean		#remover caches de instalação
+sudo apt update			#atualizar as listas do apt
+sudo apt upgrade		#atualizar os aplicativos
+sudo apt full-upgrade	#forçar uma atualização completa
+sudo apt dist-upgrade	#forçar uma atualização do Kernel
+sudo apt autoremove		#remover aplicativos desnecessários
+sudo apt autoclean		#remover caches de instalação
 
 #03_ Aguardar os procedimentos da aula de instalação e customização de Software no Linux Mint e comandos de Terminal
 
@@ -73,31 +102,34 @@ Atalho Terminal: Ctrl + Alt + T
 #C_ Personalizar o Tema (Aparência);
 #D_ Personalizar a Janela de Início de Sessão;
 #E_ Pesquisar sobre: Extensões;
-					  Desklets;
-					  Applets;
-					  Temas (Themas);
-					  Plano de Fundo.
+Desklets;
+Applets;
+Temas (Themas);
+Plano de Fundo.
 #F_ Menu, Configurações do Sistema.
 
 #04_ Novas formas de instalar Software
 #A) Gerenciador de Aplicativos
 #B) Instalar via Apt (Terminal)
-	sudo apt update
-	sudo apt install git vim
+sudo apt update
+sudo apt install git vim
 #C) AppImage: Gosto
 #D) SNAP ou Flatpak: Não Gosto
 
-	KolourPaint
-	NotepadQQ
-	VLC
-	Audacity
-	Kdenlive	AppImage
-	Kazam
+KolourPaint
+NotepadQQ
+VLC
+Audacity
+Kdenlive	AppImage
+Kazam
 
 #05_ Instalação e Configuração Básica VSCode
 https://code.visualstudio.com/
 
 
 #06_ Instalando uma nova versão do Kernel
+Informações do Sistema:
+sudo apt install linux-oem-24.04b
+__________________________________________________________________
 
 

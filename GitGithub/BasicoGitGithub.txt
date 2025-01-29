@@ -1,0 +1,43 @@
+1  color /?
+    2  exit
+    3  poweroff
+    4  esçd..f
+    5  df
+    6  s
+    7  exit
+    8  sudo
+    9  sudo apt update 
+   10  sudo apt upgrade 
+   11  sudo apt upgrade --fix-missing
+   12  sudo apt autoremove 
+   13  sudo apt autoclean 
+   14  sudo reboot
+   15  sudo sh -c 'echo "deb http://deb.opera.com/opera-stable/ stable non-free" >> /etc/apt/sources.lis.d/opera.list'
+   16  sudo apt install opera-stable
+   17  sudo sh -c 'echo "deb http://deb.opera.com/opera-stable/ stable non-free" >> /etc/apt/sources.list.d/opera.list'
+   18  wget -qO- https://deb.opera.com/archive.key | sudo apt-key add -
+   19  sudo apt update && sudo apt install opera-stable
+   20  ~sudo apt update && sudo apt install opera-stable
+   21  sudo add-apt-repository 'deb https://deb.opera.com/opera-stable/ stable non-free'
+   22  wget qO https://deb.opera.com/archive.key | sudo apt-key add -
+   23  curl -fsS https://dl.brave.com/install.sh | sh
+   24  sudo snap install navegador chromium
+   25  sudo apt install chromium
+   26  sudo apr update
+   27  sudo apt update
+   28  sudo apt upgrade
+   29  sude apt update
+   30  sudo apt update]
+   31  sudp apt update
+   32  sudo apt update
+   33  sudo apt install git vim
+   34  sudo apt install kolourpaint notepadqq vlc audacity kazam 
+   35  sudo apt install appimage
+   36  sudo apt install linux-oem-24.04b
+   37  sudo reboot
+   38  git
+   39  git config --global user.name "Geovanna Mujer"
+   40  git config --global user.email
+   41  git config --list
+   42  exit
+   43  history

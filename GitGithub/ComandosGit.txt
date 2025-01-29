@@ -1,0 +1,9 @@
+O comando git pull atualiza seu repositório local.
+  
+O comando git status mostra o estado atual do repositório, indicando arquivos modificados, não comprometidos e o branch ativo. 
+
+O comando git add . adiciona todas as alterações feitas nos arquivos (novos, modificados ou deletados) ao índice (staging area), preparando-os para o próximo commit. O ponto (.) indica que todas as mudanças no diretório atual e seus subdiretórios devem ser incluídas.
+
+O comando git commit -m "atualizacao" cria um commit com as alterações que foram adicionadas ao índice (usando git add). O parâmetro -m permite que você adicione uma mensagem de commit, neste caso, "atualizacao", descrevendo as mudanças feitas. Isso grava as alterações localmente no repositório.
+  
+O comando git push envia os commits do repositório local para o remoto, atualizando o branch correspondente.
